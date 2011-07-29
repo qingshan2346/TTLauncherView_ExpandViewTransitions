@@ -1,6 +1,6 @@
 //
 //  main.m
-//  SplitView
+//  -
 //
 //  Created by Hadar Porat on 7/3/11.
 //  Copyright 2011 Hadar Porat. All rights reserved.

@@ -1,5 +1,5 @@
 //
-//  SplitViewAppDelegate.m
+//  AppDelegate.m
 //  -
 //
 //  Created by Adar Porat on 7/28/11.

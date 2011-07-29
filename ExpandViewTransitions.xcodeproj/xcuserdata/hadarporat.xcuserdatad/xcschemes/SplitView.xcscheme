@@ -14,7 +14,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "6DF6A93213C166DE003AF344"
-               BuildableName = "SplitView.app"
+               BuildableName = "ExpandViewTransitions.app"
                BlueprintName = "ExpandViewTransitions"
                ReferencedContainer = "container:ExpandViewTransitions.xcodeproj">
             </BuildableReference>
@@ -41,7 +41,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "6DF6A93213C166DE003AF344"
-            BuildableName = "SplitView.app"
+            BuildableName = "ExpandViewTransitions.app"
             BlueprintName = "ExpandViewTransitions"
             ReferencedContainer = "container:ExpandViewTransitions.xcodeproj">
          </BuildableReference>
@@ -60,7 +60,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "6DF6A93213C166DE003AF344"
-            BuildableName = "SplitView.app"
+            BuildableName = "ExpandViewTransitions.app"
             BlueprintName = "ExpandViewTransitions"
             ReferencedContainer = "container:ExpandViewTransitions.xcodeproj">
          </BuildableReference>
