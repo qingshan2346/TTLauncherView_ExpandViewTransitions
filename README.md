@@ -1,7 +1,7 @@
 README
 ======
 
-This project provides a demo three20's TTLauncherView, similar to the Facebook app launcher:
+This demo project provides an example of three20's TTLauncherView with similar behavior of the Facebook app launcher:
 
 - Custom expanding & shirking view transitions when presenting view controllers (views 
 expand once it's launcher item is tapped, and contracts when you return to the launcher)
